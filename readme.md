@@ -126,6 +126,10 @@ page
 
 pages
 
+place
+
+places
+
 privacy
 
 product
