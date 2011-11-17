@@ -43,6 +43,8 @@ extras
 faq
 favorites
 features
+font
+fonts
 forum
 forums
 friends

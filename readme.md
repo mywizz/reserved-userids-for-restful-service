@@ -88,6 +88,10 @@ favorites
 
 features
 
+font
+
+fonts
+
 forum
 
 forums
