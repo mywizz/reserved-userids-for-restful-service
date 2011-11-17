@@ -110,6 +110,10 @@ invitations
 
 invite
 
+issue
+
+issues
+
 javascript
 
 javascripts
@@ -157,6 +161,10 @@ products
 profile
 
 register
+
+roadmap
+
+roadmaps
 
 rules
 

@@ -54,6 +54,8 @@ home
 inbox
 invitations
 invite
+issue
+issues
 javascript
 javascripts
 jobs
@@ -78,6 +80,8 @@ product
 products
 profile
 register
+roadmap
+roadmaps
 rules
 script
 scripts
