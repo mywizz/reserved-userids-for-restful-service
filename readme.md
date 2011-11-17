@@ -14,6 +14,8 @@ administrator
 
 administrators
 
+ajax
+
 all
 
 announcements
@@ -23,6 +25,10 @@ api
 app
 
 apps
+
+asset
+
+assets
 
 auth
 
@@ -47,6 +53,8 @@ configurations
 contact
 
 contacts
+
+css
 
 dashboard
 
@@ -98,7 +106,13 @@ invitations
 
 invite
 
+javascript
+
+javascripts
+
 jobs
+
+js
 
 list
 
@@ -142,6 +156,10 @@ register
 
 rules
 
+script
+
+scripts
+
 search
 
 sent
@@ -159,6 +177,10 @@ signup
 statistics
 
 stats
+
+stylesheet
+
+stylesheets
 
 support
 
