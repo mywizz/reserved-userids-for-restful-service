@@ -33,6 +33,7 @@ developer
 developers
 device
 devices
+docs
 download
 downloads
 error

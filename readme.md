@@ -68,6 +68,8 @@ device
 
 devices
 
+docs
+
 download
 
 downloads
