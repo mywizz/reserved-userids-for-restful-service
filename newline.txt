@@ -68,6 +68,8 @@ me
 message
 messages
 misc
+mobile
+mobiles
 my
 notification
 notifications
