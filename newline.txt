@@ -20,6 +20,8 @@ biz
 blog
 board
 business
+changelog
+changelogs
 comment
 comments
 config

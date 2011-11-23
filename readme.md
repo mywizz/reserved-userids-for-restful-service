@@ -42,6 +42,10 @@ board
 
 business
 
+changelog
+
+changelogs
+
 comment
 
 comments
